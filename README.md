@@ -6,5 +6,5 @@ Foi realizado um clone da UI do WhatsApp seguindo a explicação do [vídeo](htt
 
 ## Screenshot
 
-![app](https://raw.githubusercontent.com/gislainy/Flutter-Instagram-UI-Clone/master/screenshots/app.jpeg)
+![app](https://raw.githubusercontent.com/gislainy/Flutter-Whastapp-UI-Clone/master/screenshots/app.jpeg)
 
